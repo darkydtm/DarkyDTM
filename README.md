@@ -16,7 +16,7 @@
 <p align="left">
 	<a href="https://t.me/beavers_best" target="_blank" rel="noreferrer">
 		<img
-				src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
+				src="icons/telegram.svg"
 				alt="telegram"
 				width="40" height="40"
 		/>
