@@ -10,7 +10,7 @@
 
 - My main project: **[VanillaKernel](https://github.com/darkydtm/vanillakernel)**
 - My bio: **[link](https://darkydtm.github.io)**
-- My mail for communication: **communication.ensnare211@passinbox.com**
+- My mail for communication: **[ProtonMail alias](mailto:communication.ensnare211@passinbox.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
