@@ -16,14 +16,14 @@
 <p align="left">
 	<a href="https://t.me/beavers_best" target="_blank" rel="noreferrer">
 		<img
-				src="icons/telegram.svg"
+				src="icons/contact/telegram.svg"
 				alt="telegram"
 				width="40" height="40"
 		/>
 	</a>
 	<a href="mailto:communication.ensnare211@passinbox.com" target="_blank" rel="noreferrer">
 		<img
-				src="icons/proton_mail.svg"
+				src="icons/contact/proton_mail.svg"
 				alt="email"
 				width="40" height="40"
 		/>
@@ -34,31 +34,31 @@
 <p align="left">
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 		<img
-			src="icons/bash.svg"
+			src="icons/tools/bash.svg"
 			alt="bash" width="40" height="40"
 		/>
 	</a>
 	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 		<img
-			src="icons/lang_c.svg"
+			src="icons/tools/lang_c.svg"
 			alt="c" width="40" height="40"
 		/>
 	</a>
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 		<img
-			src="icons/docker.svg"
+			src="icons/tools/docker.svg"
 			alt="docker" width="40" height="40"
 		/>
 	</a>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 		<img
-			src="icons/git.svg"
+			src="icons/tools/git.svg"
 			alt="git" width="40" height="40"
 		/>
 	</a>
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 		<img
-			src="icons/linux.svg"
+			src="icons/tools/linux.svg"
 			alt="linux" width="40" height="40"
 		/>
 	</a>
@@ -68,28 +68,28 @@
 <p align="left">
 	<a href="https://tronscan.org/#/address/TJBmxupzBDGy6KjDCdS9Dam4DW7bj4VuNQ" target="_blank" rel="noreferrer">
 		<img
-				src="icons/usdt.png"
+				src="icons/donate/usdt.png"
 				alt="USDT TRC20"
 				width="40" height="40"
 		/>
 	</a>
 	<a href="https://t.me/send?start=IV0IZQVjpLHd" target="_blank" rel="noreferrer">
 		<img
-				src="icons/cryptobot.png"
+				src="icons/donate/cryptobot.png"
 				alt="CryptoBot"
 				width="40" height="40"
 		/>
 	</a>
 	<a href="https://blockchair.com/bitcoin/address/bc1qc20wxnjhxjaqv4ypx4gdrewvuud6zcuz0u2hhv" target="_blank" rel="noreferrer">
 		<img
-				src="icons/btc.svg"
+				src="icons/donate/btc.svg"
 				alt="Bitcoin"
 				width="40" height="40"
 		/>
 	</a>
 	<a href="https://etherscan.io/address/0x850701b88f304135855adE4D600a39c6D61fE6AE" target="_blank" rel="noreferrer">
 		<img
-				src="icons/eth.svg"
+				src="icons/donate/eth.svg"
 				alt="Ethereum"
 				width="40" height="40"
 		/>
