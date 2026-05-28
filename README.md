@@ -82,7 +82,7 @@
 	</a>
 	<a href="https://blockchair.com/bitcoin/address/bc1qc20wxnjhxjaqv4ypx4gdrewvuud6zcuz0u2hhv" target="_blank" rel="noreferrer">
 		<img
-				src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
+				src="icons/btc.svg"
 				alt="Bitcoin"
 				width="40" height="40"
 		/>
