@@ -23,7 +23,7 @@
 	</a>
 	<a href="mailto:communication.ensnare211@passinbox.com" target="_blank" rel="noreferrer">
 		<img
-				src="https://upload.wikimedia.org/wikipedia/commons/0/0c/ProtonMail_icon.svg"
+				src="icons/proton_mail.svg"
 				alt="email"
 				width="40" height="40"
 		/>
