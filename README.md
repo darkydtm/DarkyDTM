@@ -22,6 +22,14 @@
         height="40"
     />
   </a>
+  <a href="mailto:communication.ensnare211@passinbox.com" target="_blank" rel="noreferrer">
+    <img
+        src="https://upload.wikimedia.org/wikipedia/commons/0/0c/ProtonMail_icon.svg"
+        alt="mail"
+        width="40"
+        height="40"
+    />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
