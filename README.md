@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://t.me/beavers_best" target="_blank" rel="noreferrer"> <img src="" alt="telegram" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
