@@ -89,7 +89,7 @@
 	</a>
 	<a href="https://etherscan.io/address/0x850701b88f304135855adE4D600a39c6D61fE6AE" target="_blank" rel="noreferrer">
 		<img
-				src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg"
+				src="icons/eth.svg"
 				alt="Ethereum"
 				width="40" height="40"
 		/>
