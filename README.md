@@ -75,7 +75,7 @@
 	</a>
 	<a href="https://t.me/send?start=IV0IZQVjpLHd" target="_blank" rel="noreferrer">
 		<img
-				src="https://images.cryptorank.io/coins/150x150.crypto_bot1718025192953.png"
+				src="icons/cryptobot.png"
 				alt="CryptoBot"
 				width="40" height="40"
 		/>
