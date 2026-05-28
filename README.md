@@ -68,7 +68,7 @@
 <p align="left">
 	<a href="https://tronscan.org/#/address/TJBmxupzBDGy6KjDCdS9Dam4DW7bj4VuNQ" target="_blank" rel="noreferrer">
 		<img
-				src="https://upload.wikimedia.org/wikipedia/commons/0/01/USDT_Logo.png"
+				src="icons/usdt.png"
 				alt="USDT TRC20"
 				width="40" height="40"
 		/>
