@@ -80,6 +80,20 @@
 				width="40" height="40"
 		/>
 	</a>
+	<a href="https://blockchair.com/bitcoin/address/bc1qc20wxnjhxjaqv4ypx4gdrewvuud6zcuz0u2hhv" target="_blank" rel="noreferrer">
+		<img
+				src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
+				alt="Bitcoin"
+				width="40" height="40"
+		/>
+	</a>
+	<a href="https://etherscan.io/address/0x850701b88f304135855adE4D600a39c6D61fE6AE" target="_blank" rel="noreferrer">
+		<img
+				src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg"
+				alt="Ethereum"
+				width="40" height="40"
+		/>
+	</a>
 </p>
 
 <p>
