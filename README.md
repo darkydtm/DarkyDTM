@@ -64,6 +64,24 @@
 	</a>
 </p>
 
+<h3 align="left">Donate me</h3>
+<p align="left">
+	<a href="https://tronscan.org/#/address/TJBmxupzBDGy6KjDCdS9Dam4DW7bj4VuNQ" target="_blank" rel="noreferrer">
+		<img
+				src="https://upload.wikimedia.org/wikipedia/commons/0/01/USDT_Logo.png"
+				alt="USDT TRC20"
+				width="40" height="40"
+		/>
+	</a>
+	<a href="https://t.me/send?start=IV0IZQVjpLHd" target="_blank" rel="noreferrer">
+		<img
+				src="https://images.cryptorank.io/coins/150x150.crypto_bot1718025192953.png"
+				alt="CryptoBot"
+				width="40" height="40"
+		/>
+	</a>
+</p>
+
 <p>
 	<img
 		align="center"
