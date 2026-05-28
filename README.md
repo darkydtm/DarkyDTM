@@ -34,7 +34,7 @@
 <p align="left">
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 		<img
-			src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"
+			src="icons/bash.svg"
 			alt="bash" width="40" height="40"
 		/>
 	</a>
