@@ -10,7 +10,6 @@
 
 - My main project: **[VanillaKernel](https://github.com/darkydtm/vanillakernel)**
 - My bio: **[link](https://darkydtm.github.io)**
-- My email for communication: **[ProtonMail alias](mailto:communication.ensnare211@passinbox.com)**
 - My public GPG key: **[View](/assets/pub.asc)**
 
 <h3 align="left">Connect with me:</h3>
