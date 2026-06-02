@@ -9,7 +9,7 @@
 </p>
 
 - My main project: **[VanillaKernel](https://github.com/darkydtm/vanillakernel)**
-- My bio: **[link](https://darkydtm.github.io)**
+- My bio: **[link](https://darky.is-a.dev)**
 - My public GPG key: **[View](/assets/pub.asc)**
 
 <h3 align="left">Connect with me:</h3>
