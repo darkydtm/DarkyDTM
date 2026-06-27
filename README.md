@@ -8,7 +8,7 @@
 	/>
 </p>
 
-- My main project: **[VanillaKernel](https://github.com/darkydtm/vanillakernel)**
+- My main project: **[VanillaKernel](https://github.com/vanilla-kernel)**
 - My bio: **[link](https://darky.is-a.dev)**
 - My public GPG key: **[View](/assets/pub.asc)**
 
